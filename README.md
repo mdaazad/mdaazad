@@ -4,3 +4,4 @@ I'm a passionate Computer Science major with strong foundations in Java, C++, an
 
 - 🔧 Tech Stack: Java | C++ | Git | HTML | CSS  
 - 📫 Email: [azadmd.tech@gmail.com](mailto:azadmd.tech@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mdaazad](https://www.linkedin.com/in/mdaazad)
