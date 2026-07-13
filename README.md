@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Md Abul Kalam Azad
 
-Aspiring Software Engineer | Computer Science Student at **Queens College (CUNY)**
+Computer Science Student at **Queens College (CUNY)**
 Expected Graduation: **December 2026**
 
 I focus on building strong foundations in:
 
 - Full-Stack Web Development
 - Data Structures & Algorithms
-- AI-Assisted Development
+- AI-Integrated Web Applications
 
 ---
 
